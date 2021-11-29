@@ -7,9 +7,7 @@
 Description
 ----------------------
 
-This repository includes software adn data used in the paper:
-
-This work is the subject of the article:
+This repository includes software and data used in the experiments conducted in the article:
 
 > *Maurizio Giordano, Lucia Maddalena, Mario Manzo and Mario Rosario Guarracino.
  "Adversarial attacks on graph-level embedding methods: a case study".
