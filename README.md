@@ -11,7 +11,7 @@ This repository includes software adn data used in the paper:
 
 This work is the subject of the article:
 
-> *M. De Gregorio, M. Giordano.
+> *Maurizio Giordano, Lucia Maddalena, Mario Manzo and Mario Rosario Guarracino.
  "Adversarial attacks on graph-level embedding methods: a case study".
  Submitted to "Special issue of Annals of Mathematics and Artificial Intelligence".*
  
